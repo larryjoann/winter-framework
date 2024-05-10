@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="winter-frame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/winter-framework/winter-frame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
